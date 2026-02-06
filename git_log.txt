@@ -1,0 +1,52 @@
+commit 83947dd2996626ce4a70b8bd58556cc2e2e6c286
+Merge: f73ca2d adba65f
+Author: gigijang <ggj0806@gmail.com>
+Date:   Thu Feb 5 17:16:33 2026 -0800
+
+    Resolve merge conflict
+
+commit adba65ff787bd8473079482f86503260221fd748
+Author: gigijang <ggj0806@gmail.com>
+Date:   Thu Feb 5 16:23:18 2026 -0800
+
+    Added favorite game
+
+commit f73ca2d8842d0d5e33099620ef4264f851053558
+Author: gigijang <ggj0806@gmail.com>
+Date:   Thu Feb 5 16:20:57 2026 -0800
+
+    Added a new favorite food line
+
+commit 08f9a1de770fa8bb5274b116448e1fcf9db247f2
+Merge: 31dec68 5f7672a
+Author: gigijang <ggj0806@gmail.com>
+Date:   Thu Feb 5 16:17:28 2026 -0800
+
+    Merge branch 'main' of https://github.com/gigijang/CS3338-second-project
+
+commit 31dec6826050bb9bd1eb9a5ed106b1d825868021
+Author: gigijang <ggj0806@gmail.com>
+Date:   Thu Feb 5 16:17:01 2026 -0800
+
+    Created README file
+
+commit 5f7672a9a3bb52a3d408c183ea2389759047223a
+Merge: 1d2bfc0 2ea23b7
+Author: gigijang <ggj0806@gmail.com>
+Date:   Wed Feb 4 17:32:32 2026 -0800
+
+    Merge pull request #1 from gigijang/info-fill
+    
+    Fill in info blanks
+
+commit 2ea23b7a37a584386500b7d4b60c501e0b196fbe
+Author: gigijang <ggj0806@gmail.com>
+Date:   Wed Feb 4 17:28:37 2026 -0800
+
+    Fill in info blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
